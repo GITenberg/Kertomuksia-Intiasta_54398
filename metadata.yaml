@@ -1,0 +1,34 @@
+_repo: Kertomuksia-Intiasta_54398
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kipling, Rudyard
+    aliases:
+    - Kipling, R. (Rudyard)
+    - Kipling, Joseph Rudyard
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '132'
+    url: http://www.gutenberg.org/2009/agents/132
+    wikipedia: http://en.wikipedia.org/wiki/Rudyard_Kipling
+description: Translations of "Without benefit of clergy," "Beyond the pale," "The
+  judgment of Dungara," "Lispeth," "The conversion of Aurelian McGoggin," and "Thrown
+  away."
+gutenberg_issued: '2017-03-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54398'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English fiction -- Translations into Finnish'
+- !lcc 'PR'
+- !lcsh 'British -- India -- Fiction'
+- !lcsh 'Short stories, English -- Translations into Finnish'
+- GITenberg
+tableOfContents: Rudyard Kipling -- Ilman kirkon siunausta -- Yli rajain -- Dungaran
+  tuomio -- Lispeth -- Aurelianus Mc Gogginin kääntyminen -- Mennyttä kalua.
+title: Kertomuksia Intiasta
+url: http://www.gutenberg.org/ebooks/54398
